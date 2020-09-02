@@ -1,0 +1,23 @@
+.bgcolor{
+  background-color: darkblue;
+  bottom: 0;
+  color: white;
+  padding: 2%;
+  width: 100%;
+}
+.bglight{
+  background-color: darkblue;
+  color: white;
+}
+.bglight_a{
+  color: white;
+}
+.logo{
+  color: white;
+  font-weight: 900;
+  font-size: 30px;
+}
+.logo:hover{
+  color: white;
+  text-decoration: none;
+}
